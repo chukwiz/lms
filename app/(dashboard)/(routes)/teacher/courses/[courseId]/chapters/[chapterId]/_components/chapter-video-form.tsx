@@ -73,7 +73,7 @@ const ChapterVideoForm = ({ courseId, initialData, chapterId }: ChapterVideoForm
             }}
           />
           <div className="text-xs text-muted-foreground mt-4">
-            Upload this chapter's video
+            Upload this chapter&apos;s video
           </div>
         </div>
       )}
